@@ -1,0 +1,8 @@
+.hero img {
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.home .theme-default-content {
+  visibility: hidden;
+}
